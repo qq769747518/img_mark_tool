@@ -1,0 +1,15 @@
+{
+	"base_dir": "",
+	"data_dir": "picts",
+	"label_file": "label_out/labels.json",
+	"label_class": {
+		"行走/站立": ["label_def/personalGender.json",1],
+		"站起": ["label_def/personalAge.json",2],
+		"坐下": ["label_def/hair.json",3],
+		"坐着/坐定": ["label_def/hairColor.json",4],
+		"跌倒": ["label_def/accessory.json",5],
+		"躺/倒定": ["label_def/upperBody.json",6],
+		"抬手/挥手":[ "label_def/upperBodyColor.json",7],
+		"弯腰": ["label_def/lowerBody.json",8],
+		"跳跃":[ "label_def/lowerBodyColor.json",9]
+		}}

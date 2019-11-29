@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7511eca7-03f3-47c6-9b97-658cb36813e3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_tools$saver_imgs.coverage" NAME="saver_imgs Coverage Results" MODIFIED="1571992903658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_tools$mark_tool.coverage" NAME="mark_tool Coverage Results" MODIFIED="1574844541555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_tools$app.coverage" NAME="app Coverage Results" MODIFIED="1571906829849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Market_data_collect" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mark_tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/saver_imgs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="665">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>MessageBox</find>
+      <find>tk</find>
+      <find>showinfo</find>
+      <find>has_key</find>
+      <find>Application</find>
+      <find>label_class</find>
+      <find>recover_have_selected_label_area</find>
+      <find>self.label_result</find>
+      <find>load_image</find>
+      <find>ImageTk</find>
+      <find>self.image_label</find>
+      <find>self.master</find>
+      <find>self.add_control</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/setting.json" />
+        <option value="$PROJECT_DIR$/Market_data_collect/app.py" />
+        <option value="$PROJECT_DIR$/saver_imgs.py" />
+        <option value="$PROJECT_DIR$/mark_tool.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="439" />
+    <option name="y" value="141" />
+    <option name="width" value="1359" />
+    <option name="height" value="959" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_tools" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_tools" type="462c0819:PsiDirectoryNode" />
+              <item name="mark_video_25" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.mark_tool">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Market_data_collect" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Market_data_collect/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mark_tool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mark_tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="saver_imgs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_tools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/saver_imgs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mark_tool" />
+        <item itemvalue="Python.saver_imgs" />
+        <item itemvalue="Python.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7511eca7-03f3-47c6-9b97-658cb36813e3" name="Default Changelist" comment="" />
+      <created>1571727595686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571727595686</updated>
+      <workItem from="1571727597729" duration="63985000" />
+      <workItem from="1574844531254" duration="1964000" />
+      <workItem from="1574923988078" duration="700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66649000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="439" y="141" width="1359" height="959" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18659559" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2913669" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32883435" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.11638169" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32883435" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.27945778" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mark_tool.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/video/17_video.jpg" />
+    <entry file="file://$PROJECT_DIR$/video.avi">
+      <provider selected="true" editor-type-id="LargeFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cam3/3_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3/1_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/5_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/7_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/13_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/16_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/18_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/20_cam3_120.0.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/2_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/17_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/87_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1208_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1206_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1205_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1212_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1214_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1240_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1243_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1276_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1280_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1311_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1334_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1567_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1557_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1526_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1497_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1464_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1431_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1399_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1398_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1364_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1361_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/label_def/upperBody.json" />
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/label_def/upperBodyColor.json" />
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/label_def/personalAge.json" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/1_cam3.jpg" />
+    <entry file="file:///usr/local/lib/python3.5/dist-packages/PIL/ImageTk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/picts/0015_015.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/18_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/cam3_120.0/66_cam3.jpg" />
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/label_out/labels.json" />
+    <entry file="file://$PROJECT_DIR$/setting.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/setting.json" />
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/label_def/hair.json" />
+    <entry file="file:///usr/lib/python3.5/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="3650" column="8" selection-start-line="3650" selection-start-column="8" selection-end-line="3650" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Market_data_collect/app.py" />
+    <entry file="file://$PROJECT_DIR$/mark_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/saver_imgs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
